@@ -1,3 +1,6 @@
+ Advanced SQL Query System  task 10
+ 
+ 
  Report 1: Customer Count
 
  <img width="1121" height="250" alt="image" src="https://github.com/user-attachments/assets/6478be42-0140-49c2-b08f-630cb9f1e08a" />
